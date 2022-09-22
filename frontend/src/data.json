@@ -1,0 +1,170 @@
+{
+	"Profile":
+	{	
+		"id":"0321080183",
+		"email":"Kuntah.kinte@htu.edu.gh",
+		"contact":"0552274951",
+		"image":"",
+		"first_name":"Kuntah",
+		"last_name":"Kinte",
+		"dob":"20/09/1995",
+		"rank":"135",
+		"points":"237",
+		"programme":"BTech Computer Science",
+		"level":"400",
+		"gender":"male",
+		"hometown":"Ketu South",
+		"is_active":"true",
+		"joined_on":"21/09/2021",
+		"created_on":"21/09/2021",
+		"updated_on":"21/10/2021",
+		"Background_info":
+		{
+			"Father":
+			{
+				"status":"Alive",
+				"occupation":"Public Sevant"
+			},
+			"Mother":
+			{
+				"status":"Alive",
+				"occupation":"Trader"
+			}
+		},
+		"Activity_data":
+		{
+			"logged_in at":"",
+			"logged_off at":""
+		}
+
+
+	},
+	"Data":
+	{
+		"Enrolled_courses": 
+		{
+			"YEAR 1":
+			{
+				"CPGA":"3.14", 
+				"SEM 1":
+				{
+					"GPA":"3.0", 
+					"Database 1":
+					{
+						"course tile":"Introduction to Database",
+						"Rank":"4",
+						"course_credits":"3",
+						"course_material":
+						{
+							"videos":"",
+							"books":"",
+							"slides":"",
+							"past-questions":"",
+							"relevance of course":"",
+							"published_on":"",
+							"Published_by":"",
+							"First_Accessed on":"",
+							"Last_Accessed on":"",
+							"Finished_on":""
+						},
+						"Assessment":
+						{
+							"Quizes":
+							{
+								"Q1":
+								{
+									"published_on":"",
+									"Published_by":"",
+									"Number_attempts_allowed":"",
+									"credits_worth":"",
+									"Duration":"",
+									"Deadline":"",
+									"mode":"",
+									"Log_data":
+									{	
+										
+										"started_at":"",
+										"ended_at":"",
+										"Number_attempts":"",
+										"number_of_questions":"",
+										"number_of_answered":
+										{
+											"correct_answers":"",
+											"wrong_answers":""
+										}
+									}
+								}
+							},
+							"Midsem":
+							{
+								"M1":
+								{
+									"published_on":"",
+									"Published_by":"",
+									"Number_attempts_allowed":"",
+									"credits_worth":"",
+									"Duration":"",
+									"Deadline":"",
+									"mode":"",
+									"Log_data":
+									{	
+										
+										"started_at":"",
+										"ended_at":"",
+										"Number_attempts":"",
+										"number_of_questions":"",
+										"number_of_answered":
+										{
+											"correct_answers":"",
+											"wrong_answers":""
+										}
+									}
+								}
+							},
+							"Assignments":
+							{
+								"A1":
+								{
+									"published_on":"",
+									"Published_by":"",
+									"Number_attempts_allowed":"",
+									"credits_worth":"",
+									"Duration":"",
+									"Deadline":"",
+									"mode":"",
+									"submitted":"",
+									"Log_data":
+									{	
+										
+										"started_at":"",
+										"ended_at":"",
+										"Number_attempts":"",
+										"number_of_questions":"",
+										"number_of_answered":
+										{
+											"correct_answers":"",
+											"wrong_answers":""
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"Notifications":
+	{
+		"0":
+		{
+			"subject":"",
+			"content":"",
+			"seen":"",
+			"delivered_on":"",
+			"opened_on":""
+		}
+	}
+}
+
+
